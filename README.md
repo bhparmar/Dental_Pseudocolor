@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-* Python == 3.6.13
+* Python == 3.6
 * Opencv-python
 * numpy
 * matplotlib.pyplot
@@ -35,5 +35,5 @@ Before execution of the python code, you need to give the input file name in the
 Change the value of cmap for the color map of the output image as per the standard values from matplot.
 following are the output of the code taking value of K=6 and cmap = plt.cm.get_cmap("tab10") and ("Reds").
 ```
-![](Figure_2_tab10.png)
+![](Figure_2.png)
 ![](Figure_2_Reds.png)
